@@ -3,11 +3,11 @@ This is a gradle project utilises several languages and APIs including Spring, G
 
 Frontend with React, Next.js and TailwindCSS.
 
-Backend database is composed of the following tables:
+Backend database is of the following tables:
 ```
-1️⃣ - Admin
+1️⃣ - Book
 2️⃣ - Users
-3️⃣ - Property
+3️⃣ - 
 ```
 # Table Features
 
