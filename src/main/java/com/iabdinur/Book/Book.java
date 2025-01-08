@@ -14,8 +14,8 @@ public record Book(
 ) {
     public static List<Book> books= Arrays.asList(
 
-            new Book(2,"Harry Potter",320, 2),
-            new Book(3,"The Hobbit",322, 3),
+            new Book(1,"Harry Potter",320, 2),
+            new Book(2,"The Hobbit",322, 3),
             new Book(3,"The Holy Quran",604, 1),
             new Book(4,"Think and grow rich",242, 4),
             new Book(5,"The Alchemist",400, 5),
