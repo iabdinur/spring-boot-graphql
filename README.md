@@ -6,7 +6,8 @@ Frontend with React, Next.js and TailwindCSS.
 Backend database is of the following tables:
 ```
 1️⃣ - Book
-2️⃣ - Users
+2️⃣ - Authorls
+
 3️⃣ - 
 ```
 # Table Features
